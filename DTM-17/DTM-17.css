@@ -723,7 +723,7 @@ rect[mask="url(#svg-mask-status-idle)"] {
   fill: #FAA61A !important;
 }
 
-rect[mask="url(#svg-mask-status-dnd)"] {
+rect[mask="url(#svg-mask-status-dnd)"][fill="#f04747"] {
   fill: #982929 !important;
 }
 
